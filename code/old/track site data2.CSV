@@ -1,0 +1,623 @@
+id,type,additional information,relativ position,location,location number,location abreviation,idlocation abreviation
+B7,main signal,track 2,0.034 km,Landquart,49600,LQ,B7LQ
+B8,main signal,track 1,0.034 km,Landquart,49600,LQ,B8LQ
+B6,main signal,track 3,0.059 km,Landquart,49600,LQ,B6LQ
+W6,turnout engine,track 15,0.082 km,Landquart,49600,LQ,W6LQ
+B5,main signal,track 4,0.100 km,Landquart,49600,LQ,B5LQ
+W5,turnout engine,track 13,0.106 km,Landquart,49600,LQ,W5LQ
+BUe 0.107,railway crossing,,0.107 km,Landquart,49600,LQ,BUe 0.107LQ
+W4,turnout engine,,0.148 km,Landquart,49600,LQ,W4LQ
+C*,distant signal,,0.620 km,Landquart,49600,LQ,C*LQ
+A,main signal,,0.620 km,Landquart,49600,LQ,ALQ
+BG 09997 - 1,balise,,0.978 km,Malans,49202,MALA,BG 09997 - 1MALA
+BG 09997 - 2,balise,,0.978 km,Malans,49202,MALA,BG 09997 - 2MALA
+BG 08000 - 1,balise,,1.028 km,Malans,49202,MALA,BG 08000 - 1MALA
+BG 08000 - 2,balise,,1.028 km,Malans,49202,MALA,BG 08000 - 2MALA
+A*,distant signal,,1.030 km,Malans,49202,MALA,A*MALA
+A*,distant signal,,1.360 km,LQ,49600,LQ,A*LQ
+BUe 1.37,railway crossing,Pumpihuesli,1.376 km,Malans,49202,MALA,BUe 1.37MALA
+BG 08001 - 1,balise,,1.653 km,Malans,49202,MALA,BG 08001 - 1MALA
+BG 08001 - 2,balise,,1.653 km,Malans,49202,MALA,BG 08001 - 2MALA
+A ,main signal,,1.657 km,Malans,49202,MALA,A MALA
+C*,distant signal,,1.657 km,Malans,49202,MALA,C*MALA
+W1,turnout engine,,1.983 km,Malans,49202,MALA,W1MALA
+B1,main signal,track 1,2.055 km,Malans,49202,MALA,B1MALA
+B2,main signal,track 2,2.055 km,Malans,49202,MALA,B2MALA
+BG 08002 - 1,balise,track 1,2.059 km,Malans,49202,MALA,BG 08002 - 1MALA
+BG 08002 - 2,balise,track 1,2.059 km,Malans,49202,MALA,BG 08002 - 2MALA
+BG 08003 - 1,balise,track 2,2.059 km,Malans,49202,MALA,BG 08003 - 1MALA
+BG 08003 - 2,balise,track 2,2.059 km,Malans,49202,MALA,BG 08003 - 2MALA
+Malans,train station,,2.167 km,Malans,49202,MALA,MalansMALA
+Bue 2.23 - 1,railway crossing,track 1,,,,,Bue 2.23 - 1
+Bue 2.23 - 2,railway crossing,track 2,,,,,Bue 2.23 - 2
+BG 08004 - 1,balise,track 1,2.261 km,Malans,49202,MALA,BG 08004 - 1MALA
+BG 08004 - 2,balise,track 1,2.261 km,Malans,49202,MALA,BG 08004 - 2MALA
+BG 08005 - 1,balise,track 2,2.261 km,Malans,49202,MALA,BG 08005 - 1MALA
+BG 08005 - 2,balise,track 2,2.261 km,Malans,49202,MALA,BG 08005 - 2MALA
+C1,main signal,track 1,2.265 km,Malans,49202,MALA,C1MALA
+C2,main signal,track 2,2.265 km,Malans,49202,MALA,C2MALA
+W5,turnout engine,,2.338 km,Malans,49202,MALA,W5MALA
+BUe 2.48,railway crossing,Stampfackerstrasse,2.488 km,Malans,49202,MALA,BUe 2.48MALA
+D,main signal,,2.668 km,Malans,49202,MALA,DMALA
+B*,distant signal,,2.668 km,Malans,49202,MALA,B*MALA
+BG 08006 - 1,balise,,2.673 km,Malans,49202,MALA,BG 08006 - 1MALA
+BG 08006 - 2,balise,,2.673 km,Malans,49202,MALA,BG 08006 - 2MALA
+D*,distant signal,,3.290 km,Malans,49202,MALA,D*MALA
+BG 08007 - 1,balise,,3.295 km,Malans,49202,MALA,BG 08007 - 1MALA
+BG 08007 - 2,balise,,3.295 km,Malans,49202,MALA,BG 08007 - 2MALA
+BG 08008 - 1,balise,,3.329 km,Malans Alte Saege,49203,SAGE,BG 08008 - 1SAGE
+BG 08008 - 2,balise,,3.329 km,Malans Alte Saege,49203,SAGE,BG 08008 - 2SAGE
+E*,distant signal,,3.333 km,Malans Alte Saege,49203,SAGE,E*SAGE
+BUe 3.38,railway crossing,,3.380 km,Malans Alte Saege,49203,SAGE,BUe 3.38SAGE
+BG 08009 - 1,balise,,3.947 km,Malans Alte Saege,49203,SAGE,BG 08009 - 1SAGE
+BG 08009 - 2,balise,,3.947 km,Malans Alte Saege,49203,SAGE,BG 08009 - 2SAGE
+E,main signal,,3.952 km,Malans Alte Saege,49203,SAGE,ESAGE
+BUe 4.20,railway crossing,,4.202 km,Malans Alte Saege,49203,SAGE,BUe 4.20SAGE
+F,main signal,,4.225 km,Malans Alte Saege,49203,SAGE,FSAGE
+BG 08010 - 1,balise,,4.229 km,Malans Alte Saege,49203,SAGE,BG 08010 - 1SAGE
+BG 08010 - 2,balise,,4.229 km,Malans Alte Saege,49203,SAGE,BG 08010 - 2SAGE
+BG 08069 - 1,balise,,4.360 km,Malans Alte Saege,49203,SAGE,BG 08069 - 1SAGE
+BG 08069 - 2,balise,,4.360 km,Malans Alte Saege,49203,SAGE,BG 08069 - 2SAGE
+Klus-Tunnel - 1,tunnel portal,,4.750 km,Malans Alte Saege,49203,SAGE,Klus-Tunnel - 1SAGE
+F*,distant signal,,5.036 km,Malans Alte Saege,49203,SAGE,F*SAGE
+BG 08011 - 1,balise,,5.040 km,Malans Alte Saege,49203,SAGE,BG 08011 - 1SAGE
+BG 08011 - 2,balise,,5.040 km,Malans Alte Saege,49203,SAGE,BG 08011 - 2SAGE
+BG 08012 - 1,balise,,5.231 km,Gruesch,49208,GRUS,BG 08012 - 1GRUS
+BG 08012 - 2,balise,,5.231 km,Gruesch,49208,GRUS,BG 08012 - 2GRUS
+G*,distant signal,,5.235 km,Gruesch,49208,GRUS,G*GRUS
+Klus-Tunnel - 2,tunnel portal,,5.768 km,Gruesch,49208,GRUS,Klus-Tunnel - 2GRUS
+BG 08013 - 1,balise,,5.983 km,Gruesch,49208,GRUS,BG 08013 - 1GRUS
+BG 08013 - 2,balise,,5.983 km,Gruesch,49208,GRUS,BG 08013 - 2GRUS
+G,main signal,,5.988 km,Gruesch,49208,GRUS,GGRUS
+H,main signal,,6.011 km,Gruesch,49208,GRUS,HGRUS
+BG 08014 - 1,balise,,6.015 km,Gruesch,49208,GRUS,BG 08014 - 1GRUS
+BG 08014 - 2,balise,,6.015 km,Gruesch,49208,GRUS,BG 08014 - 2GRUS
+PO,position offset,-28m,6.100 km,Gruesch,49208,GRUS,POGRUS
+H*,distant signal,,6.650 km,Gruesch,49208,GRUS,H*GRUS
+BG 08015 - 1,balise,,6.654 km,Gruesch,49208,GRUS,BG 08015 - 1GRUS
+BG 08015 - 2,balise,,6.654 km,Gruesch,49208,GRUS,BG 08015 - 2GRUS
+Seewis-Pardisla,train station,,6.735 km,Gruesch,49208,GRUS,Seewis-PardislaGRUS
+BG 08016 - 1,balise,,6.855 km,Gruesch,49208,GRUS,BG 08016 - 1GRUS
+BG 08016 - 2,balise,,6.855 km,Gruesch,49208,GRUS,BG 08016 - 2GRUS
+A*,distant signal,,6.860 km,Gruesch,49208,GRUS,A*GRUS
+BG 08017 - 1,balise,,7.446 km,Gruesch,49208,GRUS,BG 08017 - 1GRUS
+BG 08017 - 2,balise,,7.446 km,Gruesch,49208,GRUS,BG 08017 - 2GRUS
+A,main signal,,7.450 km,Gruesch,49208,GRUS,AGRUS
+C*,distant signal,,7.450 km,Gruesch,49208,GRUS,C*GRUS
+BUe 7.61,railway crossing,Schmitten,7.610 km,Gruesch,49208,GRUS,BUe 7.61GRUS
+W1,turnout engine,,7.659 km,Gruesch,49208,GRUS,W1GRUS
+B,main signal,,7.690 km,Gruesch,49208,GRUS,BGRUS
+BG 08018 - 1,balise,track 1,7.717 km,Gruesch,49208,GRUS,BG 08018 - 1GRUS
+BG 08018 - 2,balise,track 1,7.717 km,Gruesch,49208,GRUS,BG 08018 - 2GRUS
+BG 08019 - 1,balise,track 2,7.717 km,Gruesch,49208,GRUS,BG 08019 - 1GRUS
+BG 08019 - 2,balise,track 2,7.717 km,Gruesch,49208,GRUS,BG 08019 - 2GRUS
+B**1,distant signal,track 1,7.780 km,Gruesch,49208,GRUS,B**1GRUS
+B**2,distant signal,track 2,7.780 km,Gruesch,49208,GRUS,B**2GRUS
+Gruesch,train station,,7.909 km,Gruesch,49208,GRUS,GrueschGRUS
+BUe 7.950 - 1,railway crossing,track 1,,,,,BUe 7.950 - 1
+BUe 7.950 - 2,railway crossing,track 2,,,,,BUe 7.950 - 2
+W3,turnout engine,track 2,7.950 km,Gruesch,49208,GRUS,W3GRUS
+BG 08024 - 1,balise,track 1,7.985 km,Gruesch,49208,GRUS,BG 08024 - 1GRUS
+BG 08024 - 2,balise,track 1,7.985 km,Gruesch,49208,GRUS,BG 08024 - 2GRUS
+BG 08025 - 1,balise,track 2,7.985 km,Gruesch,49208,GRUS,BG 08025 - 1GRUS
+BG 08025 - 2,balise,track 2,7.985 km,Gruesch,49208,GRUS,BG 08025 - 2GRUS
+C,main signal,,8.010 km,Gruesch,49208,GRUS,CGRUS
+A*,distant signal,,8.010 km,Gruesch,49208,GRUS,A*GRUS
+BUe 8.03,railway crossing,,8.033 km,Gruesch,49208,GRUS,BUe 8.03GRUS
+BUe 8.04,railway crossing,,8.044 km,Gruesch,49208,GRUS,BUe 8.04GRUS
+W4,turnout engine,,8.059 km,Gruesch,49208,GRUS,W4GRUS
+D,main signal,,8.286 km,Gruesch,49208,GRUS,DGRUS
+B*,distant signal,,8.286 km,Gruesch,49208,GRUS,B*GRUS
+BG 08026 - 1,balise,,8.290 km,Gruesch,49208,GRUS,BG 08026 - 1GRUS
+BG 08026 - 2,balise,,8.290 km,Gruesch,49208,GRUS,BG 08026 - 2GRUS
+D**,distant signal,,8.423 km,Gruesch,49208,GRUS,D**GRUS
+A**,distant signal,,8.423 km,Schiers,49211,SCRS,A**SCRS
+BG 08028 - 1,balise,,8.647 km,Schiers,49211,SCRS,BG 08028 - 1SCRS
+BG 08028 - 2,balise,,8.647 km,Schiers,49211,SCRS,BG 08028 - 2SCRS
+A,main signal,,8.651 km,Schiers,49211,SCRS,ASCRS
+D*,distant signal,,8.900 km,Gruesch,49208,GRUS,D*GRUS
+BG 08027 - 1,balise,,8.904 km,Gruesch,49208,GRUS,BG 08027 - 1GRUS
+BG 08027 - 2,balise,,8.904 km,Gruesch,49208,GRUS,BG 08027 - 2GRUS
+W101,turnout engine,,8.905 km,Gruesch,49208,GRUS,W101GRUS
+B12,main signal,track 2,9.097 km,Schiers,49211,SCRS,B12SCRS
+B13,main signal,track 3,9.097 km,Schiers,49211,SCRS,B13SCRS
+BG 08029 - 1,balise,track 2,9.102 km,Schiers,49211,SCRS,BG 08029 - 1SCRS
+BG 08029 - 2,balise,track 2,9.102 km,Schiers,49211,SCRS,BG 08029 - 2SCRS
+BG 08030 - 1,balise,track 3,9.102 km,Schiers,49211,SCRS,BG 08030 - 1SCRS
+BG 08030 - 2,balise,track 3,9.102 km,Schiers,49211,SCRS,BG 08030 - 2SCRS
+BG 08031 - 1,balise,track 2,9.796 km,Schiers,49211,SCRS,BG 08031 - 1SCRS
+BG 08031 - 2,balise,track 2,9.796 km,Schiers,49211,SCRS,BG 08031 - 2SCRS
+BG 08032 - 1,balise,track 3,9.796 km,Schiers,49211,SCRS,BG 08032 - 1SCRS
+BG 08032 - 2,balise,track 3,9.796 km,Schiers,49211,SCRS,BG 08032 - 2SCRS
+C*12,distant signal,track 2,9.800 km,Schiers,49211,SCRS,C*12SCRS
+C*13,distant signal,track 3,9.800 km,Schiers,49211,SCRS,C*13SCRS
+B*12,distant signal,track 2,10.167 km,Schiers,49211,SCRS,B*12SCRS
+B*13,distant signal,track 3,10.167 km,Schiers,49211,SCRS,B*13SCRS
+BG 08033 - 1,balise,track 2,10.171 km,Schiers,49211,SCRS,BG 08033 - 1SCRS
+BG 08033 - 2,balise,track 2,10.171 km,Schiers,49211,SCRS,BG 08033 - 2SCRS
+BG 08034 - 1,balise,track 3,10.171 km,Schiers,49211,SCRS,BG 08034 - 1SCRS
+BG 08034 - 2,balise,track 3,10.171 km,Schiers,49211,SCRS,BG 08034 - 2SCRS
+BG 08035 - 1,balise,track 2,10.675 km,Schiers,49211,SCRS,BG 08035 - 1SCRS
+BG 08035 - 2,balise,track 2,10.675 km,Schiers,49211,SCRS,BG 08035 - 2SCRS
+BG 08036 - 1,balise,track 3,10.675 km,Schiers,49211,SCRS,BG 08036 - 1SCRS
+BG 08036 - 2,balise,track 3,10.675 km,Schiers,49211,SCRS,BG 08036 - 2SCRS
+C12,main signal,track 2,10.680 km,Schiers,49211,SCRS,C12SCRS
+E*12,distant signal,track 2,10.680 km,Schiers,49211,SCRS,E*12SCRS
+C13,main signal,track 3,10.680 km,Schiers,49211,SCRS,C13SCRS
+E*13,distant signal,track 3,10.680 km,Schiers,49211,SCRS,E*13SCRS
+W2,turnout engine,track 2,10.904 km,Schiers,49211,SCRS,W2SCRS
+W3,turnout engine,track 3,11.007 km,Schiers,49211,SCRS,W3SCRS
+W4,turnout engine,track 3,11.204 km,Schiers,49211,SCRS,W4SCRS
+W5,turnout engine,track 2,11.317 km,Schiers,49211,SCRS,W5SCRS
+D3,main signal,track 3,11.324 km,Schiers,49211,SCRS,D3SCRS
+W6,turnout engine,track 2,11.327 km,Schiers,49211,SCRS,W6SCRS
+BG 08039 - 1,balise,track 3,11.329 km,Schiers,49211,SCRS,BG 08039 - 1SCRS
+BG 08039 - 2,balise,track 3,11.329 km,Schiers,49211,SCRS,BG 08039 - 2SCRS
+D1,main signal,track 1,11.383 km,Schiers,49211,SCRS,D1SCRS
+D2,main signal,track 2,11.383 km,Schiers,49211,SCRS,D2SCRS
+BG 08037 - 1,balise,track 1,11.388 km,Schiers,49211,SCRS,BG 08037 - 1SCRS
+BG 08037 - 2,balise,track 1,11.388 km,Schiers,49211,SCRS,BG 08037 - 2SCRS
+BG 08038 - 1,balise,track 2,11.388 km,Schiers,49211,SCRS,BG 08038 - 1SCRS
+BG 08038 - 2,balise,track 2,11.388 km,Schiers,49211,SCRS,BG 08038 - 2SCRS
+Schiers,train station,,11.438 km,Schiers,49211,SCRS,SchiersSCRS
+W7,turnout engine,track 3,11.476 km,Schiers,49211,SCRS,W7SCRS
+E1,main signal,track 1,11.496 km,Schiers,49211,SCRS,E1SCRS
+BG 08040 - 1,balise,track 2,11.615 km,Schiers,49211,SCRS,BG 08040 - 1SCRS
+BG 08040 - 2,balise,track 2,11.615 km,Schiers,49211,SCRS,BG 08040 - 2SCRS
+BG 08041 - 1,balise,track 3,11.615 km,Schiers,49211,SCRS,BG 08041 - 1SCRS
+BG 08041 - 2,balise,track 3,11.615 km,Schiers,49211,SCRS,BG 08041 - 2SCRS
+E2,main signal,track 2,11.620 km,Schiers,49211,SCRS,E2SCRS
+E3,main signal,track 3,11.620 km,Schiers,49211,SCRS,E3SCRS
+PO,position offset,-14m,11.800 km,Schiers,49211,SCRS,POSCRS
+BUe 11.80 - 1,railway crossing,track 2,11.807 km,Schiers,49211,SCRS,BUe 11.80 - 1SCRS
+BUe 11.80 - 2,railway crossing,track 3,11.807 km,Schiers,49211,SCRS,BUe 11.80 - 2SCRS
+F42,main signal,track 2,11.998 km,Schiers,49211,SCRS,F42SCRS
+D*42,distant signal,track 2,11.998 km,Schiers,49211,SCRS,D*42SCRS
+F43,main signal,track 3,11.998 km,Schiers,49211,SCRS,F43SCRS
+D*43,distant signal,track 3,11.998 km,Schiers,49211,SCRS,D*43SCRS
+BG 08042 - 1,balise,track 2,12.003 km,Schiers,49211,SCRS,BG 08042 - 1SCRS
+BG 08042 - 2,balise,track 2,12.003 km,Schiers,49211,SCRS,BG 08042 - 2SCRS
+BG 08043 - 1,balise,track 3,12.003 km,Schiers,49211,SCRS,BG 08043 - 1SCRS
+BG 08043 - 2,balise,track 3,12.003 km,Schiers,49211,SCRS,BG 08043 - 2SCRS
+BG 08044 - 1,balise,track 2,12.168 km,Schiers,49211,SCRS,BG 08044 - 1SCRS
+BG 08044 - 2,balise,track 2,12.168 km,Schiers,49211,SCRS,BG 08044 - 2SCRS
+BG 08045 - 1,balise,track 3,12.168 km,Schiers,49211,SCRS,BG 08045 - 1SCRS
+BG 08045 - 2,balise,track 3,12.168 km,Schiers,49211,SCRS,BG 08045 - 2SCRS
+G*42,distant signal,track 2,12.173 km,Schiers,49211,SCRS,G*42SCRS
+G*43,distant signal,track 3,12.173 km,Schiers,49211,SCRS,G*43SCRS
+BG 08046 - 1,balise,track 2,12.619 km,Schiers,49211,SCRS,BG 08046 - 1SCRS
+BG 08046 - 2,balise,track 2,12.619 km,Schiers,49211,SCRS,BG 08046 - 2SCRS
+BG 08047 - 1,balise,track 3,12.619 km,Schiers,49211,SCRS,BG 08047 - 1SCRS
+BG 08047 - 2,balise,track 3,12.619 km,Schiers,49211,SCRS,BG 08047 - 2SCRS
+G42,main signal,track 2,12.623 km,Schiers,49211,SCRS,G42SCRS
+G43,main signal,track 3,12.623 km,Schiers,49211,SCRS,G43SCRS
+F*,distant signal,,12.812 km,Schiers,49211,SCRS,F*SCRS
+W101,turnout engine,,12.814 km,Schiers,49211,SCRS,W101SCRS
+BG 08048 - 1,balise,,12.817 km,Schiers,49211,SCRS,BG 08048 - 1SCRS
+BG 08048 - 2,balise,,12.817 km,Schiers,49211,SCRS,BG 08048 - 2SCRS
+BUe 12.99,railway crossing,,12.995 km,Schiers,49211,SCRS,BUe 12.99SCRS
+BUe 13.11,railway crossing,,13.110 km,Schiers,49211,SCRS,BUe 13.11SCRS
+H,main signal,,13.155 km,Schiers,49211,SCRS,HSCRS
+BG 08049 - 1,balise,,13.160 km,Schiers,49211,SCRS,BG 08049 - 1SCRS
+BG 08049 - 2,balise,,13.160 km,Schiers,49211,SCRS,BG 08049 - 2SCRS
+Fuchsenwinkel-Tunnel 1,tunnel portal,,13.185 km,Schiers,49211,SCRS,Fuchsenwinkel-Tunnel 1SCRS
+BG 08020 - 1,balise,,13.305 km,Schiers,49211,SCRS,BG 08020 - 1SCRS
+BG 08020 - 2,balise,,13.305 km,Schiers,49211,SCRS,BG 08020 - 2SCRS
+BG 08051 - 1,balise,,13.474 km,Fuchsenwinkel,16001,FUWI,BG 08051 - 1FUWI
+BG 08051 - 2,balise,,13.474 km,Fuchsenwinkel,16001,FUWI,BG 08051 - 2FUWI
+A*,distant signal,,13.480 km,Fuchsenwinkel,16001,FUWI,A*FUWI
+Fuchsenwinkel-Tunnel 2,tunnel portal,,13.970 km,Fuchsenwinkel,16001,FUWI,Fuchsenwinkel-Tunnel 2FUWI
+H*,distant signal,,14.007 km,Schiers,49211,SCRS,H*SCRS
+BG 08050 - 1,balise,,14.011 km,Schiers,49211,SCRS,BG 08050 - 1SCRS
+BG 08050 - 2,balise,,14.011 km,Schiers,49211,SCRS,BG 08050 - 2SCRS
+BG 08052 - 1,balise,,14.083 km,Fuchsenwinkel,16001,FUWI,BG 08052 - 1FUWI
+BG 08052 - 2,balise,,14.083 km,Fuchsenwinkel,16001,FUWI,BG 08052 - 2FUWI
+A,main signal,,14.089 km,Fuchsenwinkel,16001,FUWI,AFUWI
+C*,distant signal,,14.089 km,Fuchsenwinkel,16001,FUWI,C*FUWI
+PO,position offset,-109m,14.200 km,Fuchsenwinkel,16001,FUWI,POFUWI
+W1,turnout engine,,14.376 km,Fuchsenwinkel,16001,FUWI,W1FUWI
+B1,main signal,track 1,14.507 km,Fuchsenwinkel,16001,FUWI,B1FUWI
+B2,main signal,track 2,14.507 km,Fuchsenwinkel,16001,FUWI,B2FUWI
+BG 08053 - 1,balise,track 1,14.512 km,Fuchsenwinkel,16001,FUWI,BG 08053 - 1FUWI
+BG 08053 - 2,balise,track 1,14.512 km,Fuchsenwinkel,16001,FUWI,BG 08053 - 2FUWI
+BG 08054 - 1,balise,track 2,14.512 km,Fuchsenwinkel,16001,FUWI,BG 08054 - 1FUWI
+BG 08054 - 2,balise,track 2,14.512 km,Fuchsenwinkel,16001,FUWI,BG 08054 - 2FUWI
+PO,position offset,-8m,,,,,PO
+BG 08055 - 1,balise,track 1,14.885 km,Fuchsenwinkel,16001,FUWI,BG 08055 - 1FUWI
+BG 08055 - 2,balise,track 1,14.885 km,Fuchsenwinkel,16001,FUWI,BG 08055 - 2FUWI
+BG 08056 - 1,balise,track 2,14.885 km,Fuchsenwinkel,16001,FUWI,BG 08056 - 1FUWI
+BG 08056 - 2,balise,track 2,14.885 km,Fuchsenwinkel,16001,FUWI,BG 08056 - 2FUWI
+C1,main signal,track 1,14.890 km,Fuchsenwinkel,16001,FUWI,C1FUWI
+C2,main signal,track 2,14.890 km,Fuchsenwinkel,16001,FUWI,C2FUWI
+W2,turnout engine,,15.025 km,Fuchsenwinkel,16001,FUWI,W2FUWI
+D,main signal,,15.283 km,Fuchsenwinkel,16001,FUWI,DFUWI
+B*,distant signal,,15.283 km,Fuchsenwinkel,16001,FUWI,B*FUWI
+BG 08057 - 1,balise,,15.288 km,Fuchsenwinkel,16001,FUWI,BG 08057 - 1FUWI
+BG 08057 - 2,balise,,15.288 km,Fuchsenwinkel,16001,FUWI,BG 08057 - 2FUWI
+Furna,train station,,15.294 km,Fuchsenwinkel,16001,FUWI,FurnaFUWI
+W4,turnout engine,,15.403 km,Fuchsenwinkel,16001,FUWI,W4FUWI
+BG 08059 - 1,balise,,15.596 km,Jenaz,49217,JAZ,BG 08059 - 1JAZ
+BG 08059 - 2,balise,,15.596 km,Jenaz,49217,JAZ,BG 08059 - 2JAZ
+A3,distant signal,,15.600 km,Jenaz,49217,JAZ,A3JAZ
+D*,distant signal,,15.938 km,Fuchsenwinkel,16001,FUWI,D*FUWI
+BG 08060 - 1,balise,,15.942 km,Fuchsenwinkel,16001,FUWI,BG 08060 - 1FUWI
+BG 08060 - 2,balise,,15.942 km,Fuchsenwinkel,16001,FUWI,BG 08060 - 2FUWI
+BG 08060 - 1,balise,,16.246 km,Jenaz,49217,JAZ,BG 08060 - 1JAZ
+BG 08060 - 2,balise,,16.246 km,Jenaz,49217,JAZ,BG 08060 - 2JAZ
+A,main signal,,16.250 km,Jenaz,49217,JAZ,AJAZ
+C*,distant signal,,16.250 km,Jenaz,49217,JAZ,C*JAZ
+W1,turnout engine,,16.451 km,Jenaz,49217,JAZ,W1JAZ
+B,main signal,track 2 & 3,16.490 km,Jenaz,49217,JAZ,BJAZ
+BG 08061 - 1,balise,track 3,16.534 km,Jenaz,49217,JAZ,BG 08061 - 1JAZ
+BG 08061 - 2,balise,track 3,16.534 km,Jenaz,49217,JAZ,BG 08061 - 2JAZ
+BG 08062 - 1,balise,track 2,16.534 km,Jenaz,49217,JAZ,BG 08062 - 1JAZ
+BG 08062 - 2,balise,track 2,16.534 km,Jenaz,49217,JAZ,BG 08062 - 2JAZ
+B**3,distant signal,track 3,16.594 km,Jenaz,49217,JAZ,B**3JAZ
+B**2,distant signal,track 2,16.594 km,Jenaz,49217,JAZ,B**2JAZ
+Jenaz,train station,,16.648 km,Jenaz,49217,JAZ,JenazJAZ
+W6,turnout engine,track 2,16.804 km,Jenaz,49217,JAZ,W6JAZ
+BG 08063 - 1,balise,track 3,16.826 km,Jenaz,49217,JAZ,BG 08063 - 1JAZ
+BG 08063 - 2,balise,track 3,16.826 km,Jenaz,49217,JAZ,BG 08063 - 2JAZ
+BG 08064 - 1,balise,track 2,16.826 km,Jenaz,49217,JAZ,BG 08064 - 1JAZ
+BG 08064 - 2,balise,track 2,16.826 km,Jenaz,49217,JAZ,BG 08064 - 2JAZ
+C,main signal,track 2 & 3,16.856 km,Jenaz,49217,JAZ,CJAZ
+W7,turnout engine,track 3,16.887 km,Jenaz,49217,JAZ,W7JAZ
+BG 08067 - 1,balise,,17.028 km,Fideris,49218,FID,BG 08067 - 1FID
+BG 08067 - 2,balise,,17.028 km,Fideris,49218,FID,BG 08067 - 2FID
+A*,distant signal,,17.031 km,Fideris,49218,FID,A*FID
+D,main signal,,17.086 km,Jenaz,49217,JAZ,DJAZ
+B*,distant signal,,17.086 km,Jenaz,49217,JAZ,B*JAZ
+BG 08065 - 1,balise,,17.089 km,Jenaz,49217,JAZ,BG 08065 - 1JAZ
+BG 08065 - 2,balise,,17.089 km,Jenaz,49217,JAZ,BG 08065 - 2JAZ
+BG 08068 - 1,balise,,17.632 km,Fideris,49218,FID,BG 08068 - 1FID
+BG 08068 - 2,balise,,17.632 km,Fideris,49218,FID,BG 08068 - 2FID
+A,main signal,,17.637 km,Fideris,49218,FID,AFID
+E*,distant signal,,17.637 km,Fideris,49218,FID,E*FID
+D*,distant signal,,17.769 km,Jenaz,49217,JAZ,D*JAZ
+BG 08066 - 1,balise,,17.774 km,Jenaz,49217,JAZ,BG 08066 - 1JAZ
+BG 08066 - 2,balise,,17.774 km,Jenaz,49217,JAZ,BG 08066 - 2JAZ
+BUe 17.90,railway crossing,,17.905 km,Fideris,49218,FID,BUe 17.90FID
+W4,turnout engine,,17.908 km,Fideris,49218,FID,W4FID
+B,main signal,,17.914 km,Fideris,49218,FID,BFID
+BG 08160 - 1,balise,track 3,17.950 km,Fideris,49218,FID,BG 08160 - 1FID
+BG 08160 - 2,balise,track 3,17.950 km,Fideris,49218,FID,BG 08160 - 2FID
+W5,turnout engine,track 2,18.075 km,Fideris,49218,FID,W5FID
+D,main signal,track 1 & 2,18.100 km,Fideris,49218,FID,DFID
+BG 08070 - 1,balise,track 2,18.128 km,Fideris,49218,FID,BG 08070 - 1FID
+BG 08070 - 2,balise,track 2,18.128 km,Fideris,49218,FID,BG 08070 - 2FID
+BG 08071 - 1,balise,track 1,18.128 km,Fideris,49218,FID,BG 08071 - 1FID
+BG 08071 - 2,balise,track 1,18.128 km,Fideris,49218,FID,BG 08071 - 2FID
+BG 08161 - 1,balise,track 3,18.143 km,Fideris,49218,FID,BG 08161 - 1FID
+BG 08161 - 2,balise,track 3,18.143 km,Fideris,49218,FID,BG 08161 - 2FID
+W6,turnout engine,track 2,18.172 km,Fideris,49218,FID,W6FID
+Fideris,train station,,18.250 km,Fideris,49218,FID,FiderisFID
+BG 08072 - 1,balise,track 2,18.368 km,Fideris,49218,FID,BG 08072 - 1FID
+BG 08072 - 2,balise,track 2,18.368 km,Fideris,49218,FID,BG 08072 - 2FID
+BG 08073 - 1,balise,track 1,18.368 km,Fideris,49218,FID,BG 08073 - 1FID
+BG 08073 - 2,balise,track 1,18.368 km,Fideris,49218,FID,BG 08073 - 2FID
+E,main signal,track 1 & 2,18.372 km,Fideris,49218,FID,EFID
+W8,turnout engine,,18.414 km,Fideris,49218,FID,W8FID
+F,main signal,,18.621 km,Fideris,49218,FID,FFID
+D*,distant signal,,18.621 km,Fideris,49218,FID,D*FID
+BG 08074 - 1,balise,,18.625 km,Fideris,49218,FID,BG 08074 - 1FID
+BG 08074 - 2,balise,,18.625 km,Fideris,49218,FID,BG 08074 - 2FID
+F*,distant signal,,19.075 km,Fideris,49218,FID,F*FID
+BG 08075- 1,balise,,19.079 km,Fideris,49218,FID,BG 08075- 1FID
+BG 08075 - 2,balise,,19.079 km,Fideris,49218,FID,BG 08075 - 2FID
+BG 08076 - 1,balise,,19.163 km,Fideris,49218,FID,BG 08076 - 1FID
+BG 08076 - 2,balise,,19.163 km,Fideris,49218,FID,BG 08076 - 2FID
+L*,distant signal,,19.167 km,Fideris,49218,FID,L*FID
+BG 08077 - 1,balise,,19.560 km,Fideris,49218,FID,BG 08077 - 1FID
+BG 08077 - 2,balise,,19.560 km,Fideris,49218,FID,BG 08077 - 2FID
+L,main signal,,19.564 km,Fideris,49218,FID,LFID
+M,main signal,,19.647 km,Fideris,49218,FID,MFID
+BG 08078 - 1,balise,,19.651 km,Fideris,49218,FID,BG 08078 - 1FID
+BG 08078 - 2,balise,,19.651 km,Fideris,49218,FID,BG 08078 - 2FID
+BG 08080 - 1,balise,,19.789 km,Kueblis,49221,KUEB,BG 08080 - 1KUEB
+BG 08080 - 2,balise,,19.789 km,Kueblis,49221,KUEB,BG 08080 - 2KUEB
+A*,distant signal,,19.793 km,Kueblis,49221,KUEB,A*KUEB
+BG 08081 - 1,balise,,20.236 km,Kueblis,49221,KUEB,BG 08081 - 1KUEB
+BG 08081 - 2,balise,,20.236 km,Kueblis,49221,KUEB,BG 08081 - 2KUEB
+A,main signal,,20.240 km,Kueblis,49221,KUEB,AKUEB
+C*,distant signal,,20.240 km,Kueblis,49221,KUEB,C*KUEB
+M*,distant signal,,20.333 km,Fideris,49218,FID,M*FID
+BG 08079 - 1,balise,,20.337 km,Fideris,49218,FID,BG 08079 - 1FID
+BG 08079 - 2,balise,,20.337 km,Fideris,49218,FID,BG 08079 - 2FID
+PO,position offset,-12m,20.600 km,Kueblis,49221,KUEB,POKUEB
+W1,turnout engine,,20.625 km,Kueblis,49221,KUEB,W1KUEB
+B22,main signal,track 2,20.805 km,Kueblis,49221,KUEB,B22KUEB
+B21,main signal,track 1,20.805 km,Kueblis,49221,KUEB,B21KUEB
+BG 08083 - 1,balise,track 2,20.809 km,Kueblis,49221,KUEB,BG 08083 - 1KUEB
+BG 08083 - 2,balise,track 2,20.809 km,Kueblis,49221,KUEB,BG 08083 - 2KUEB
+BG 08082 - 1,balise,track 1,20.809 km,Kueblis,49221,KUEB,BG 08082 - 1KUEB
+BG 08082 - 2,balise,track 1,20.809 km,Kueblis,49221,KUEB,BG 08082 - 2KUEB
+BG 08085 - 1,balise,track 2,21.102 km,Kueblis,49221,KUEB,BG 08085 - 1KUEB
+BG 08085 - 2,balise,track 2,21.102 km,Kueblis,49221,KUEB,BG 08085 - 2KUEB
+BG 08084 - 1,balise,track 1,21.102 km,Kueblis,49221,KUEB,BG 08084 - 1KUEB
+BG 08084 - 2,balise,track 1,21.102 km,Kueblis,49221,KUEB,BG 08084 - 2KUEB
+C22,main signal,track 2,21.106 km,Kueblis,49221,KUEB,C22KUEB
+E*22,distant signal,track 2,21.106 km,Kueblis,49221,KUEB,E*22KUEB
+C21,main signal,track 1,21.106 km,Kueblis,49221,KUEB,C21KUEB
+E*21,distant signal,track 1,21.106 km,Kueblis,49221,KUEB,E*21KUEB
+B**32,distant signal,track 2,21.116 km,Kueblis,49221,KUEB,B**32KUEB
+B**31,distant signal,track 1,21.116 km,Kueblis,49221,KUEB,B**31KUEB
+W4,turnout engine,track 2,21.236 km,Kueblis,49221,KUEB,W4KUEB
+D1,main signal,track 1,21.275 km,Kueblis,49221,KUEB,D1KUEB
+BG 08086 - 1,balise,track 1,21.278 km,Kueblis,49221,KUEB,BG 08086 - 1KUEB
+BG 08086 - 2,balise,track 1,21.278 km,Kueblis,49221,KUEB,BG 08086 - 2KUEB
+D43,main signal,track 3,21.282 km,Kueblis,49221,KUEB,D43KUEB
+D2,main signal,track 2,21.282 km,Kueblis,49221,KUEB,D2KUEB
+BG 08088 - 1,balise,track 3,21.286 km,Kueblis,49221,KUEB,BG 08088 - 1KUEB
+BG 08088 - 2,balise,track 3,21.286 km,Kueblis,49221,KUEB,BG 08088 - 2KUEB
+BG 08087 - 1,balise,track 2,21.286 km,Kueblis,49221,KUEB,BG 08087 - 1KUEB
+BG 08087 - 2,balise,track 2,21.286 km,Kueblis,49221,KUEB,BG 08087 - 2KUEB
+W5,turnout engine,track 3,21.376 km,Kueblis,49221,KUEB,W5KUEB
+Kueblis,train station,,21.436 km,Kueblis,49221,KUEB,KueblisKUEB
+BG 08089 - 1,balise,track 1,21.552 km,Kueblis,49221,KUEB,BG 08089 - 1KUEB
+BG 08089 - 2,balise,track 1,21.552 km,Kueblis,49221,KUEB,BG 08089 - 2KUEB
+BG 08090 - 1,balise,track 2,21.552 km,Kueblis,49221,KUEB,BG 08090 - 1KUEB
+BG 08090 - 2,balise,track 2,21.552 km,Kueblis,49221,KUEB,BG 08090 - 2KUEB
+E1,main signal,track 1,21.556 km,Kueblis,49221,KUEB,E1KUEB
+E2,main signal,track 2,21.556 km,Kueblis,49221,KUEB,E2KUEB
+BG 08091 - 1,balise,track 3,21.562 km,Kueblis,49221,KUEB,BG 08091 - 1KUEB
+BG 08091 - 2,balise,track 3,21.562 km,Kueblis,49221,KUEB,BG 08091 - 2KUEB
+E3,main signal,track 3,21.566 km,Kueblis,49221,KUEB,E3KUEB
+W6,turnout engine,track 2,21.611 km,Kueblis,49221,KUEB,W6KUEB
+W11,turnout engine,,21.646 km,Kueblis,49221,KUEB,W11KUEB
+F,main signal,,21.810 km,Kueblis,49221,KUEB,FKUEB
+D*,distant signal,,21.810 km,Kueblis,49221,KUEB,D*KUEB
+BG 08092 - 1,balise,,21.815 km,Kueblis,49221,KUEB,BG 08092 - 1KUEB
+BG 08092 - 2,balise,,21.815 km,Kueblis,49221,KUEB,BG 08092 - 2KUEB
+BG 08094 - 1,balise,,22.167 km,Capaels,49223,CAPA,BG 08094 - 1CAPA
+BG 08094 - 2,balise,,22.167 km,Capaels,49223,CAPA,BG 08094 - 2CAPA
+G*,distant signal,,22.171 km,Capaels,49223,CAPA,G*CAPA
+F*,distant signal,,22.178 km,Kueblis,49221,KUEB,F*KUEB
+BG 08093 - 1,balise,,22.182 km,Kueblis,49221,KUEB,BG 08093 - 1KUEB
+BG 08093 - 2,balise,,22.182 km,Kueblis,49221,KUEB,BG 08093 - 2KUEB
+BG 08095 - 1,balise,,22.473 km,Capaels,49223,CAPA,BG 08095 - 1CAPA
+BG 08095 - 2,balise,,22.473 km,Capaels,49223,CAPA,BG 08095 - 2CAPA
+G,main signal,,22.477 km,Capaels,49223,CAPA,GCAPA
+J*,distant signal,,22.477 km,Capaels,49223,CAPA,J*CAPA
+PO,position offset,+10m,22.500 km,Capaels,49223,CAPA,POCAPA
+W21,turnout engine,,22.536 km,Capaels,49223,CAPA,W21CAPA
+H81,main signal,track 1,22.662 km,Capaels,49223,CAPA,H81CAPA
+H82,main signal,track 2,22.662 km,Capaels,49223,CAPA,H82CAPA
+BG 08097 - 1,balise,track 2,22.666 km,Capaels,49223,CAPA,BG 08097 - 1CAPA
+BG 08097 - 2,balise,track 2,22.666 km,Capaels,49223,CAPA,BG 08097 - 2CAPA
+BG 08096 - 1,balise,track 1,22.666 km,Capaels,49223,CAPA,BG 08096 - 1CAPA
+BG 08096 - 2,balise,track 1,22.666 km,Capaels,49223,CAPA,BG 08096 - 2CAPA
+H**82,distant signal,track 2,22.772 km,Capaels,49223,CAPA,H**82CAPA
+H**81,distant signal,track 1,22.772 km,Capaels,49223,CAPA,H**81CAPA
+BG 08023 - 1,balise,track 2,22.994 km,Capaels,49223,CAPA,BG 08023 - 1CAPA
+BG 08023 - 2,balise,track 2,22.994 km,Capaels,49223,CAPA,BG 08023 - 2CAPA
+BG 08022 - 1,balise,track 1,22.994 km,Capaels,49223,CAPA,BG 08022 - 1CAPA
+BG 08022 - 2,balise,track 1,22.994 km,Capaels,49223,CAPA,BG 08022 - 2CAPA
+J**82,distant signal,track 2,23.062 km,Capaels,49223,CAPA,J**82CAPA
+J**81,distant signal,track 1,23.062 km,Capaels,49223,CAPA,J**81CAPA
+BG 08099 - 1,balise,track 2,23.194 km,Capaels,49223,CAPA,BG 08099 - 1CAPA
+BG 08099 - 2,balise,track 2,23.194 km,Capaels,49223,CAPA,BG 08099 - 2CAPA
+BG 08098 - 1,balise,track 1,23.194 km,Capaels,49223,CAPA,BG 08098 - 1CAPA
+BG 08098 - 2,balise,track 1,23.194 km,Capaels,49223,CAPA,BG 08098 - 2CAPA
+J82,main signal,track 2,23.198 km,Capaels,49223,CAPA,J82CAPA
+J81,main signal,track 1,23.198 km,Capaels,49223,CAPA,J81CAPA
+W22,turnout engine,,23.297 km,Capaels,49223,CAPA,W22CAPA
+K,main signal,,23.396 km,Capaels,49223,CAPA,KCAPA
+H*,distant signal,,23.396 km,Capaels,49223,CAPA,H*CAPA
+BG 08100 - 1,balise,,23.400 km,Capaels,49223,CAPA,BG 08100 - 1CAPA
+BG 08100 - 2,balise,,23.400 km,Capaels,49223,CAPA,BG 08100 - 2CAPA
+BG 08102 - 1,balise,,23.824 km,Saas,49225,SAAS,BG 08102 - 1SAAS
+BG 08102 - 2,balise,,23.824 km,Saas,49225,SAAS,BG 08102 - 2SAAS
+A*,distant signal,,23.830 km,Saas,49225,SAAS,A*SAAS
+K*,distant signal,,23.837 km,Capaels,49223,CAPA,K*CAPA
+BG 08101 - 1,balise,,23.841 km,Capaels,49223,CAPA,BG 08101 - 1CAPA
+BG 08101 - 2,balise,,23.841 km,Capaels,49223,CAPA,BG 08101 - 2CAPA
+BG 08103 - 1,balise,,24.166 km,Saas,49225,SAAS,BG 08103 - 1SAAS
+BG 08103 - 2,balise,,24.166 km,Saas,49225,SAAS,BG 08103 - 2SAAS
+A,main signal,,24.171 km,Saas,49225,SAAS,ASAAS
+C*,distant signal,,24.171 km,Saas,49225,SAAS,C*SAAS
+PO,position offset,-7m,24.400 km,Saas,49225,SAAS,POSAAS
+B,main signal,,24.520 km,Saas,49225,SAAS,BSAAS
+W1,turnout engine,,24.526 km,Saas,49225,SAAS,W1SAAS
+BG 08105 - 1,balise,track 2,24.565 km,Saas,49225,SAAS,BG 08105 - 1SAAS
+BG 08105 - 2,balise,track 2,24.565 km,Saas,49225,SAAS,BG 08105 - 2SAAS
+BG 08104 - 1,balise,track 1,24.568 km,Saas,49225,SAAS,BG 08104 - 1SAAS
+BG 08104 - 2,balise,track 1,24.568 km,Saas,49225,SAAS,BG 08104 - 2SAAS
+Saas,train station,,24.609 km,Saas,49225,SAAS,SaasSAAS
+C**1,distant signal,track 1,24.702 km,Saas,49225,SAAS,C**1SAAS
+C**2,distant signal,track 2,24.702 km,Saas,49225,SAAS,C**2SAAS
+BG 08107 - 1,balise,track 2,24.789 km,Saas,49225,SAAS,BG 08107 - 1SAAS
+BG 08107 - 2,balise,track 2,24.789 km,Saas,49225,SAAS,BG 08107 - 2SAAS
+BG 08106 - 1,balise,track 1,24.789 km,Saas,49225,SAAS,BG 08106 - 1SAAS
+BG 08106 - 2,balise,track 1,24.789 km,Saas,49225,SAAS,BG 08106 - 2SAAS
+C,main signal,,24.830 km,Saas,49225,SAAS,CSAAS
+W3,turnout engine,,24.832 km,Saas,49225,SAAS,W3SAAS
+D,main signal,,25.108 km,Saas,49225,SAAS,DSAAS
+B*,distant signal,,25.108 km,Saas,49225,SAAS,B*SAAS
+BG 08108 - 1,balise,,25.113 km,Saas,49225,SAAS,BG 08108 - 1SAAS
+BG 08108 - 2,balise,,25.113 km,Saas,49225,SAAS,BG 08108 - 2SAAS
+BG 08110 - 1,balise,,25.528 km,Serneus,49228,SERN,BG 08110 - 1SERN
+BG 08110 - 2,balise,,25.528 km,Serneus,49228,SERN,BG 08110 - 2SERN
+P*,distant signal,,25.532 km,Serneus,49228,SERN,P*SERN
+D*,distant signal,,25.572 km,Saas,49225,SAAS,D*SAAS
+BG 08109 - 1,balise,,25.576 km,Saas,49225,SAAS,BG 08109 - 1SAAS
+BG 08109 - 2,balise,,25.576 km,Saas,49225,SAAS,BG 08109 - 2SAAS
+BG 08111 - 1,balise,,25.967 km,Serneus,49228,SERN,BG 08111 - 1SERN
+BG 08111 - 2,balise,,25.967 km,Serneus,49228,SERN,BG 08111 - 2SERN
+P,main signal,,25.971 km,Serneus,49228,SERN,PSERN
+Q,main signal,,26.022 km,Serneus,49228,SERN,QSERN
+BG 08112 - 1,balise,,26.026 km,Serneus,49228,SERN,BG 08112 - 1SERN
+BG 08112 - 2,balise,,26.026 km,Serneus,49228,SERN,BG 08112 - 2SERN
+Q*,distant signal,,26.421 km,Serneus,49228,SERN,Q*SERN
+BG 08113 - 1,balise,,26.425 km,Serneus,49228,SERN,BG 08113 - 1SERN
+BG 08113 - 2,balise,,26.425 km,Serneus,49228,SERN,BG 08113 - 2SERN
+BG 08114 - 1,balise,,26.641 km,Serneus,49228,SERN,BG 08114 - 1SERN
+BG 08114 - 2,balise,,26.641 km,Serneus,49228,SERN,BG 08114 - 2SERN
+A*,distant signal,,26.646 km,Serneus,49228,SERN,A*SERN
+PO,position offset,-2m,26.937 km,Serneus,49228,SERN,POSERN
+BG 08115 - 1,balise,,27.126 km,Serneus,49228,SERN,BG 08115 - 1SERN
+BG 08115 - 2,balise,,27.126 km,Serneus,49228,SERN,BG 08115 - 2SERN
+A,main signal,,27.130 km,Serneus,49228,SERN,ASERN
+C*,distant signal,,27.130 km,Serneus,49228,SERN,C*SERN
+W1,turnout engine,,27.340 km,Serneus,49228,SERN,W1SERN
+BUe 27.38 - 1,railway crossing,track 1,,,,,BUe 27.38 - 1
+BUe 27.38 - 2,railway crossing,track 2,,,,,BUe 27.38 - 2
+B1,main signal,track 1,27.453 km,Serneus,49228,SERN,B1SERN
+B2,main signal,track 2,27.453 km,Serneus,49228,SERN,B2SERN
+BG 08116 - 1,balise,track 1,27.457 km,Serneus,49228,SERN,BG 08116 - 1SERN
+BG 08116 - 2,balise,track 1,27.457 km,Serneus,49228,SERN,BG 08116 - 2SERN
+BG 08117 - 1,balise,track 2,27.457 km,Serneus,49228,SERN,BG 08117 - 1SERN
+BG 08117 - 2,balise,track 2,27.457 km,Serneus,49228,SERN,BG 08117 - 2SERN
+BG 08118 - 1,balise,track 1,27.732 km,Serneus,49228,SERN,BG 08118 - 1SERN
+BG 08118 - 2,balise,track 1,27.732 km,Serneus,49228,SERN,BG 08118 - 2SERN
+BG 08119 - 1,balise,track 2,27.732 km,Serneus,49228,SERN,BG 08119 - 1SERN
+BG 08119 - 2,balise,track 2,27.732 km,Serneus,49228,SERN,BG 08119 - 2SERN
+C1,main signal,track 1,27.736 km,Serneus,49228,SERN,C1SERN
+C2,main signal,track 2,27.736 km,Serneus,49228,SERN,C2SERN
+W3,turnout engine,,27.829 km,Serneus,49228,SERN,W3SERN
+BUe 27.84,railway crossing,Serneuserstrasse,27.840 km,Serneus,49228,SERN,BUe 27.84SERN
+D,main signal,,28.160 km,Serneus,49228,SERN,DSERN
+B*,distant signal,,28.160 km,Serneus,49228,SERN,B*SERN
+BG 08120 - 1,balise,,28.165 km,Serneus,49228,SERN,BG 08120 - 1SERN
+BG 08120 - 2,balise,,28.165 km,Serneus,49228,SERN,BG 08120 - 2SERN
+D*,distant signal,,28.573 km,Serneus,49228,SERN,D*SERN
+BG 08121 - 1,balise,,28.577 km,Serneus,49228,SERN,BG 08121 - 1SERN
+BG 08121 - 2,balise,,28.577 km,Serneus,49228,SERN,BG 08121 - 2SERN
+BG 08122 - 1,balise,,28.790 km,Serneus,49228,SERN,BG 08122 - 1SERN
+BG 08122 - 2,balise,,28.790 km,Serneus,49228,SERN,BG 08122 - 2SERN
+F*,distant signal,,28.794 km,Serneus,49228,SERN,F*SERN
+E,main signal,track 2,28.903 km,Serneus,49228,SERN,ESERN
+PO,position offset,-8m,29.000 km,Serneus,49228,SERN,POSERN
+W5,turnout engine,,29.011 km,Serneus,49228,SERN,W5SERN
+BG 08123 - 1,balise,,29.196 km,Serneus,49228,SERN,BG 08123 - 1SERN
+BG 08123 - 2,balise,,29.196 km,Serneus,49228,SERN,BG 08123 - 2SERN
+F,main signal,,29.200 km,Serneus,49228,SERN,FSERN
+G,main signal,,29.346 km,Serneus,49228,SERN,GSERN
+BG 08124 - 1,balise,,29.350 km,Serneus,49228,SERN,BG 08124 - 1SERN
+BG 08124 - 2,balise,,29.350 km,Serneus,49228,SERN,BG 08124 - 2SERN
+G*,distant signal,,29.679 km,Serneus,49228,SERN,G*SERN
+BG 08125 - 1,balise,,29.683 km,Serneus,49228,SERN,BG 08125 - 1SERN
+BG 08125 - 2,balise,,29.683 km,Serneus,49228,SERN,BG 08125 - 2SERN
+BG 08126 - 1,balise,,29.809 km,Klosters Dorf,49231,KLOD,BG 08126 - 1KLOD
+BG 08126 - 2,balise,,29.809 km,Klosters Dorf,49231,KLOD,BG 08126 - 2KLOD
+A*,distant signal,,29.813 km,Klosters Dorf,49231,KLOD,A*KLOD
+BG 08127 - 1,balise,,30.383 km,Klosters Dorf,49231,KLOD,BG 08127 - 1KLOD
+BG 08127 - 2,balise,,30.383 km,Klosters Dorf,49231,KLOD,BG 08127 - 2KLOD
+A,main signal,,30.388 km,Klosters Dorf,49231,KLOD,AKLOD
+C*,distant signal,,30.388 km,Klosters Dorf,49231,KLOD,C*KLOD
+W1,turnout engine,,30.522 km,Klosters Dorf,49231,KLOD,W1KLOD
+BUe 30.53,railway crossing,,30.534 km,Klosters Dorf,49231,KLOD,BUe 30.53KLOD
+B,main signal,track 1 & 2,30.544 km,Klosters Dorf,49231,KLOD,BKLOD
+BG 08128 - 1,balise,track 1,30.572 km,Klosters Dorf,49231,KLOD,BG 08128 - 1KLOD
+BG 08128 - 2,balise,track 1,30.572 km,Klosters Dorf,49231,KLOD,BG 08128 - 2KLOD
+BG 08129 - 1,balise,track 2,30.573 km,Klosters Dorf,49231,KLOD,BG 08129 - 1KLOD
+BG 08129 - 2,balise,track 2,30.573 km,Klosters Dorf,49231,KLOD,BG 08129 - 2KLOD
+W2,turnout engine,track 1,30.634 km,Klosters Dorf,49231,KLOD,W2KLOD
+Klosters Dorf,train station,,30.672 km,Klosters Dorf,49231,KLOD,Klosters DorfKLOD
+BUe 30.73 - 1,railway crossing,track 1,,,,,BUe 30.73 - 1
+BUe 30.73 - 2,railway crossing,track 2,,,,,BUe 30.73 - 2
+C**1,distant signal,track 1,30.744 km,Klosters Dorf,49231,KLOD,C**1KLOD
+C**2,distant signal,track 2,30.744 km,Klosters Dorf,49231,KLOD,C**2KLOD
+BG 08130 - 1,balise,track 1,30.782 km,Klosters Dorf,49231,KLOD,BG 08130 - 1KLOD
+BG 08130 - 2,balise,track 1,30.782 km,Klosters Dorf,49231,KLOD,BG 08130 - 2KLOD
+BG 08131 - 1,balise,track 2,30.782 km,Klosters Dorf,49231,KLOD,BG 08131 - 1KLOD
+BG 08131 - 2,balise,track 2,30.782 km,Klosters Dorf,49231,KLOD,BG 08131 - 2KLOD
+C,main signal,track 1 & 2,30.819 km,Klosters Dorf,49231,KLOD,CKLOD
+A*,distant signal,track 1 & 2,30.819 km,Klosters Dorf,49231,KLOD,A*KLOD
+W3,turnout engine,,30.837 km,Klosters Dorf,49231,KLOD,W3KLOD
+BUe 30.84,railway crossing,Silvapinaweg,30.840 km,Klosters Dorf,49231,KLOD,BUe 30.84KLOD
+D,main signal,,31.074 km,Klosters Dorf,49231,KLOD,DKLOD
+B*,distant signal,,31.074 km,Klosters Dorf,49231,KLOD,B*KLOD
+BG 08132 - 1,balise,,31.079 km,Klosters Dorf,49231,KLOD,BG 08132 - 1KLOD
+BG 08132 - 2,balise,,31.079 km,Klosters Dorf,49231,KLOD,BG 08132 - 2KLOD
+BG 08133 - 1,balise,,31.174 km,Klosters,49232,KLO,BG 08133 - 1KLO
+BG 08133 - 2,balise,,31.174 km,Klosters,49232,KLO,BG 08133 - 2KLO
+A,main signal,,31.179 km,Klosters,49232,KLO,AKLO
+BUe 31.22,railway crossing,Gaeuggeliweg,31.227 km,Klosters,49232,KLO,BUe 31.22KLO
+W11,turnout engine,,31.231 km,Klosters,49232,KLO,W11KLO
+F11,main signal,track 11,31.439 km,Klosters,49232,KLO,F11KLO
+D*11,distant signal,track 11,31.439 km,Klosters,49232,KLO,D*11KLO
+F13,main signal,track 13,31.439 km,Klosters,49232,KLO,F13KLO
+D*13,distant signal,track 13,31.439 km,Klosters,49232,KLO,D*13KLO
+BG 08134 - 1,balise,track 11,31.444 km,Klosters,49232,KLO,BG 08134 - 1KLO
+BG 08134 - 2,balise,track 11,31.444 km,Klosters,49232,KLO,BG 08134 - 2KLO
+BG 08135 - 1,balise,track 13,31.444 km,Klosters,49232,KLO,BG 08135 - 1KLO
+BG 08135 - 2,balise,track 13,31.444 km,Klosters,49232,KLO,BG 08135 - 2KLO
+BG 08136 - 1,balise,track 11,31.754 km,Klosters,49232,KLO,BG 08136 - 1KLO
+BG 08136 - 2,balise,track 11,31.754 km,Klosters,49232,KLO,BG 08136 - 2KLO
+BG 08137 - 1,balise,track 13,31.754 km,Klosters,49232,KLO,BG 08137 - 1KLO
+BG 08137 - 2,balise,track 13,31.754 km,Klosters,49232,KLO,BG 08137 - 2KLO
+G*11,distant signal,track 11,31.758 km,Klosters,49232,KLO,G*11KLO
+G*13,distant signal,track 13,31.758 km,Klosters,49232,KLO,G*13KLO
+F*11,distant signal,track 11,31.889 km,Klosters,49232,KLO,F*11KLO
+F*13,distant signal,track 13,31.889 km,Klosters,49232,KLO,F*13KLO
+BG 08138 - 1,balise,track 11,31.894 km,Klosters,49232,KLO,BG 08138 - 1KLO
+BG 08138 - 2,balise,track 11,31.894 km,Klosters,49232,KLO,BG 08138 - 2KLO
+BG 08139 - 1,balise,track 13,31.894 km,Klosters,49232,KLO,BG 08139 - 1KLO
+BG 08139 - 2,balise,track 13,31.894 km,Klosters,49232,KLO,BG 08139 - 2KLO
+BG 08140 - 1,balise,track 11,32.150 km,Klosters,49232,KLO,BG 08140 - 1KLO
+BG 08140 - 2,balise,track 11,32.150 km,Klosters,49232,KLO,BG 08140 - 2KLO
+BG 08141 - 1,balise,track 13,32.150 km,Klosters,49232,KLO,BG 08141 - 1KLO
+BG 08141 - 2,balise,track 13,32.150 km,Klosters,49232,KLO,BG 08141 - 2KLO
+G11,main signal,track 11,32.154 km,Klosters,49232,KLO,G11KLO
+C*11,distant signal,track 11,32.154 km,Klosters,49232,KLO,C*11KLO
+G13,main signal,track 13,32.154 km,Klosters,49232,KLO,G13KLO
+C*13,distant signal,track 13,32.154 km,Klosters,49232,KLO,C*13KLO
+W12,turnout engine,track 11,32.168 km,Klosters,49232,KLO,W12KLO
+W14,turnout engine,track 13,32.182 km,Klosters,49232,KLO,W14KLO
+W15,turnout engine,track 3,32.223 km,Klosters,49232,KLO,W15KLO
+W13,turnout engine,track 2,32.253 km,Klosters,49232,KLO,W13KLO
+B21,main signal,track 1,32.283 km,Klosters,49232,KLO,B21KLO
+B32,main signal,track 2,32.283 km,Klosters,49232,KLO,B32KLO
+B33,main signal,track 3,32.283 km,Klosters,49232,KLO,B33KLO
+B24,main signal,track 4,32.285 km,Klosters,49232,KLO,B24KLO
+BG 08142 - 1,balise,track 1,32.288 km,Klosters,49232,KLO,BG 08142 - 1KLO
+BG 08142 - 2,balise,track 1,32.288 km,Klosters,49232,KLO,BG 08142 - 2KLO
+BG 08143 - 1,balise,track 2,32.288 km,Klosters,49232,KLO,BG 08143 - 1KLO
+BG 08143 - 2,balise,track 2,32.288 km,Klosters,49232,KLO,BG 08143 - 2KLO
+BG 08144 - 1,balise,track 3,32.288 km,Klosters,49232,KLO,BG 08144 - 1KLO
+BG 08144 - 2,balise,track 3,32.288 km,Klosters,49232,KLO,BG 08144 - 2KLO
+BG 08145 - 1,balise,track 4,32.290 km,Klosters,49232,KLO,BG 08145 - 1KLO
+BG 08145 - 2,balise,track 4,32.290 km,Klosters,49232,KLO,BG 08145 - 2KLO
+W7,turnout engine,track 1,32.350 km,Klosters,49232,KLO,W7KLO
+W8,turnout engine,track 4,32.374 km,Klosters,49232,KLO,W8KLO
+Klosters Platz,train station,,32.455 km,Klosters,49232,KLO,Klosters PlatzKLO
+BG 08154,balise,track 1,32.548 km,Klosters,49232,KLO,BG 08154KLO
+BG 08155,balise,track 2,32.549 km,Klosters,49232,KLO,BG 08155KLO
+BG 08148 - 1,balise,track 3,32.575 km,Klosters,49232,KLO,BG 08148 - 1KLO
+BG 08148 - 2,balise,track 3,32.575 km,Klosters,49232,KLO,BG 08148 - 2KLO
+BG 08149 - 1,balise,track 4,32.575 km,Klosters,49232,KLO,BG 08149 - 1KLO
+BG 08149 - 2,balise,track 4,32.575 km,Klosters,49232,KLO,BG 08149 - 2KLO
+BG 08146 - 1,balise,track 1,32.576 km,Klosters,49232,KLO,BG 08146 - 1KLO
+BG 08146 - 2,balise,track 1,32.576 km,Klosters,49232,KLO,BG 08146 - 2KLO
+BG 08147 - 1,balise,track 2,32.576 km,Klosters,49232,KLO,BG 08147 - 1KLO
+BG 08147 - 2,balise,track 2,32.576 km,Klosters,49232,KLO,BG 08147 - 2KLO
+C3,main signal,track 3,32.580 km,Klosters,49232,KLO,C3KLO
+C4,main signal,track 4,32.580 km,Klosters,49232,KLO,C4KLO
+C2,main signal,track 2,32.581 km,Klosters,49232,KLO,C2KLO
+C1,main signal,track 1,32.583 km,Klosters,49232,KLO,C1KLO
+W16,turnout engine,track 41,32.630 km,Klosters,49232,KLO,W16KLO
+W17,turnout engine,track 43,32.630 km,Klosters,49232,KLO,W17KLO
+W18,turnout engine,track 41,32.630 km,Klosters,49232,KLO,W18KLO
+W20,turnout engine,track 43,32.630 km,Klosters,49232,KLO,W20KLO
+W21,turnout engine,track 41,32.698 km,Klosters,49232,KLO,W21KLO
+W19,turnout engine,track 43,32.698 km,Klosters,49232,KLO,W19KLO
+BG 08021 - 1,balise,track 41,32.704 km,Klosters,49232,KLO,BG 08021 - 1KLO
+BG 08021 - 2,balise,track 41,32.704 km,Klosters,49232,KLO,BG 08021 - 2KLO
+Zugwald-Tunnel - 1,tunnel portal,track 41,32.798 km,Klosters,49232,KLO,Zugwald-Tunnel - 1KLO
+Klosters-Tunnel - 1,tunnel portal,track 43,32.798 km,Klosters,49232,KLO,Klosters-Tunnel - 1KLO
+E,main signal,track 41,33.062 km,Klosters,49232,KLO,EKLO
+B*,distant signal,track 41,33.062 km,Klosters,49232,KLO,B*KLO
+BG 08151 - 1,balise,track 41,33.067 km,Klosters,49232,KLO,BG 08151 - 1KLO
+BG 08151 - 2,balise,track 41,33.067 km,Klosters,49232,KLO,BG 08151 - 2KLO
+PO,position offset,+148m,,,,,PO
+Klosters-Tunnel - 2,tunnel portal,track 43,33.110 km,Klosters,49232,KLO,Klosters-Tunnel - 2KLO
+D,main signal,track 43,33.207 km,Klosters,49232,KLO,DKLO
+B*,distant signal,track 43,33.207 km,Klosters,49232,KLO,B*KLO
+BG 08150 - 1,balise,track 43,33.212 km,Klosters,49232,KLO,BG 08150 - 1KLO
+BG 08150 - 2,balise,track 43,33.212 km,Klosters,49232,KLO,BG 08150 - 2KLO
+D*,distant signal,track 43,33.459 km,Klosters,49232,KLO,D*KLO
+BG 08152 - 1,balise,track 43,33.464 km,Klosters,49232,KLO,BG 08152 - 1KLO
+BG 08152 - 2,balise,track 43,33.464 km,Klosters,49232,KLO,BG 08152 - 2KLO
+E*,distant signal,track 41,33.513 km,Klosters,49232,KLO,E*KLO
+BG 08153 - 1,balise,track 41,33.517 km,Klosters,49232,KLO,BG 08153 - 1KLO
+BG 08153 - 2,balise,track 41,33.517 km,Klosters,49232,KLO,BG 08153 - 2KLO
