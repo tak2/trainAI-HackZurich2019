@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackZurich</string>
+\    <string name="title_dashboard">Tickets</string>
+    <string name="title_notifications">Menu</string>
+</resources>
